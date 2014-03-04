@@ -16,4 +16,4 @@ thesaurus-cn
 (global-set-key (kbd "C-T") 'thesaurus-cn)
 ~~~
 
-![https://github.com/ludx/thesaurus-cn/blob/master/demo.png]()
+![](https://raw.github.com/ludx/thesaurus-cn/master/demo.png)
