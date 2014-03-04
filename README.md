@@ -1,9 +1,9 @@
 thesaurus-cn
 ============
 
-Emacs中文同义词查询
+中文同义词查询
 
-从汉典抓取同义词，需要Mathematica或Wolfram环境。
+用Mathematica/Wolfram从汉典抓取同义词
 
 在Emacs中调用：
 ~~~
@@ -15,3 +15,4 @@ Emacs中文同义词查询
 	  
 (global-set-key (kbd "C-T") 'thesaurus-cn)
 ~~~
+
